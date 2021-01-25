@@ -27,7 +27,7 @@ Install Java using homebrew ```brew cask install java8``` then follow Option1 in
  
  ### Docker
  
- Option2 in [How to install and configure jenkins on mac os](https://coralogix.com/log-analytics-blog/how-to-install-and-configure-jenkins-on-the-mac-os/)
+Install docker and then follow Option2 in [How to install and configure jenkins on mac os](https://coralogix.com/log-analytics-blog/how-to-install-and-configure-jenkins-on-the-mac-os/)
 
 ## Post-installation setup.
 
