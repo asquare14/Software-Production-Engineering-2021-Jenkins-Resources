@@ -25,3 +25,6 @@ Option1 in [How to install and configure jenkins on mac os](https://coralogix.co
  Option2 in [How to install and configure jenkins on mac os](https://coralogix.com/log-analytics-blog/how-to-install-and-configure-jenkins-on-the-mac-os/)
 
 ## Post-installation setup.
+
+This step is same for all regardless of your operating system. Follow this [link by digital ocean](https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04#step-4-%E2%80%94-setting-up-jenkins)
+
