@@ -1,5 +1,10 @@
 # Software-Production-Engineering-2021-Jenkins-Resources
-A repository containing material covered in lab session as well as helpful resources. You can find the slides covered in class [here](https://docs.google.com/presentation/d/1hTTM1Xei3CwP-2G8qwAlgdDIAVhDY3YuLQsAH3-_oM8/edit?usp=sharing).
+
+A repository containing material covered in lab session on Jenkins for the SPE course at IIIT-B. 
+
+## How to use this repository ?
+
+You can find the slides covered in class [here](https://docs.google.com/presentation/d/1hTTM1Xei3CwP-2G8qwAlgdDIAVhDY3YuLQsAH3-_oM8/edit?usp=sharing). Follow along with the slides. The slides have links to specific parts of this repository like installing jenkins, setting up jenkins etc which should help you to get started with jenkins. 
 
 ## System Requirements install Jenkins
  - Atleast 4 GB RAM
@@ -27,4 +32,5 @@ Option1 in [How to install and configure jenkins on mac os](https://coralogix.co
 ## Post-installation setup.
 
 This step is same for all regardless of your operating system. Follow this [link by digital ocean](https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04#step-4-%E2%80%94-setting-up-jenkins)
+
 
