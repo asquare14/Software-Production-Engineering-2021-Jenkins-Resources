@@ -9,7 +9,7 @@ You can find the slides covered in class [here](https://docs.google.com/presenta
 ## System Requirements install Jenkins
  - Atleast 4 GB RAM
  - Make sure nothing else is running on port 8080 (default port of Jenkins) or open jenkins in a different port.
- - If you doing a native installation, make sure Java is installed. 
+ - If you doing a native installation, make sure Java8 is installed. 
  - If you use MacOS make sure [homebrew](https://brew.sh/) is installed.
  - If you are installing on docker, make sure you have docker up and running.
  
