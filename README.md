@@ -15,15 +15,15 @@ You can find the slides covered in class [here](https://docs.google.com/presenta
  
  ## Installing Jenkins
  
- There are plenty of resources online that tell you how to install jenkins but here are are a few guides that I have tried and tested. I also recommend you to read the articles rather than copy pasting the commands blindly.
+There are plenty of resources online that tell you how to install jenkins but here are are a few guides that I have tried and tested. I also recommend you to read the articles rather than copy pasting the commands blindly.
  
  ### Ubuntu
  
- [Digital Ocean's guide to installing jenkins on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04)
+Install Java8 and then follow [Digital Ocean's guide to installing jenkins on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04)
  
  ### MacOS
- 
-Option1 in [How to install and configure jenkins on mac os](https://coralogix.com/log-analytics-blog/how-to-install-and-configure-jenkins-on-the-mac-os/)
+
+Install Java using homebrew ```brew cask install java8``` then follow Option1 in [How to install and configure jenkins on mac os](https://coralogix.com/log-analytics-blog/how-to-install-and-configure-jenkins-on-the-mac-os/)
  
  ### Docker
  
@@ -35,7 +35,6 @@ This step is same for all regardless of your operating system. Follow this [link
 
 
 ## Useful resources
-
 
 https://www.hugeinc.com/articles/list-of-useful-jenkins-plugins
 
