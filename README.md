@@ -33,5 +33,10 @@ Install docker and then follow Option2 in [How to install and configure jenkins 
 
 This step is same for all regardless of your operating system. Follow this [link by digital ocean](https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04#step-4-%E2%80%94-setting-up-jenkins)
 
+## Tutorial on Git Plugin
+
+Refer to the [slides](https://docs.google.com/presentation/d/1hTTM1Xei3CwP-2G8qwAlgdDIAVhDY3YuLQsAH3-_oM8/edit?usp=sharing).
+Public repository mentioned in the slides is this https://github.com/aSquare14/simple-script
+
 ## Suggested exercises to do after the lab session [Not Graded]
 
