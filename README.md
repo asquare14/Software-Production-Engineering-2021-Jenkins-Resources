@@ -19,7 +19,7 @@ There are plenty of resources online that tell you how to install jenkins but he
  
  ### Ubuntu
  
-Install Java8 and then follow [Digital Ocean's guide to installing jenkins on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04)
+Install Java8 and then follow [Digital Ocean's guide to installing jenkins on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04) starting directly from Step 1.
  
  ### MacOS
 
