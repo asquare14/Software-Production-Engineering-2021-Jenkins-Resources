@@ -45,3 +45,11 @@ Follow [Build a Java app with maven tutorial](https://www.jenkins.io/doc/tutoria
 ## Any questions
 
 If you have any questions regarding the lab session, feel free to open an issue in this repository.
+
+## Resources
+
+- [Why we should use Continouos Integration and Deployment ?](https://css-tricks.com/continuous-integration-continuous-deployment/)
+- [What is CI/CD? by RedHat ](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
+- [Jenkins Official Documentation](https://www.jenkins.io/doc/book/)
+- [Top 20 Continuous Integration Tools](https://www.guru99.com/top-20-continuous-integration-tools.html)
+ 
