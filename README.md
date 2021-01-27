@@ -40,6 +40,7 @@ Public repository mentioned in the slides is this https://github.com/aSquare14/s
 
 ## Suggested exercises to do after the lab session [Not Graded]
 
+Setup a Hello World Program following [this](https://www.jenkins.io/doc/pipeline/tour/hello-world/)
 Follow [Build a Java app with maven tutorial](https://www.jenkins.io/doc/tutorials/build-a-java-app-with-maven/) by jenkins.io . In this they have used docker to setup jenkins, you can skip that part and follow the rest of the steps to learn about setting up a complete CI/CD pipeline. 
 
 ## Any questions
